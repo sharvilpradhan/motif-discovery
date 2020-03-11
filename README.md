@@ -1,2 +1,6 @@
-# motif-discovery
-Motif Discovery using Multi-objective Optimization Heuristic Algorithms
+# molbio
+## CSC 530 project
+
+Implementation of solution for Motif Discovery problem using MOABC and MOGSA.
+
+Uses the TRANSFAC data set for DNA sequences
